@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+.myfoot{
+    border: 1px solid black;
+    margin-top: 50px;
+    padding-right: 20px;
+}
+
+.nav-style{
+    border: 1px solid red;
+    background: red ;
+    margin: 10px;
+    color: white;
+}
+
+.nav-style:hover{
+    color: red;
+    background: white;
+    text-decoration: none;
+}
